@@ -1,0 +1,18 @@
+   /* .container {
+        width: 100%;
+        height:100vh ;
+    }
+    /* View Width = vw, View*/
+   /* .testingResponsive{
+    width: 500px;
+    height: 500px;
+    background-color: aqua;
+
+    }
+    @media only screen and (max-width:300px) {
+        .testingResponsive {
+            width: 200px;
+            height: 200px;
+        }
+    }
+    
